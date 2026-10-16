@@ -1,4 +1,4 @@
-package com.example.praktikum5
+package com.example.Praktikum5
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
